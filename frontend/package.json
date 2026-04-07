@@ -1,0 +1,11 @@
+{
+  "name": "gitpulse-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "GitPulse dashboard (React + TypeScript)",
+  "scripts": {
+    "dev": "echo \"Scaffold only — Vite + React will be added in a later step.\"",
+    "build": "echo \"Not configured yet.\""
+  }
+}
